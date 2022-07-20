@@ -8,3 +8,4 @@ File Hosted Externally due to large file size.
 https://drive.google.com/file/d/1bapTgJpX5mWKZd_dn1Lf6DS7btOVqjtH/view?usp=sharing
 
 
+![picture of the base screen running](https://raw.githubusercontent.com/Christoper-Edmunds/Scoobie/main/Screenshot.png)
